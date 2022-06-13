@@ -1,0 +1,9 @@
+{
+    "name": "myExamDemo-prod" ,
+    "Email":"sahar@prod.com",
+    "scripts": {
+        "start": "node server.js"
+        }
+}
+
+

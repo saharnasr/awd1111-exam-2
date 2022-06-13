@@ -1,0 +1,8 @@
+{
+    "name": "myExamDemo-dev" ,
+    "Email":"sahar@dev.com",
+    "scripts": {
+        "start": "nodemon server.js"
+        }
+}
+
